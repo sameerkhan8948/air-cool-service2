@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wbhgly&6(kjkjqwf@)48_^j9dyjg#c@0pv5vez)bu4sqg@9i5@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["'air-cool-service2.onrender.com"]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
